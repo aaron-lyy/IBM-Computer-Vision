@@ -1,6 +1,6 @@
-# PyTorch Computer Vision Techniques
+# Computer Vision Techniques
 
-Welcome to the **PyTorch Computer Vision Techniques** repository! This repository contains various examples and implementations of computer vision techniques using PyTorch, including convolutional neural networks, transfer learning, and image augmentation.
+Welcome to the **Computer Vision Techniques** repository! This repository contains various examples and implementations of computer vision techniques using PyTorch, including convolutional neural networks, transfer learning, and image augmentation.
 
 ## Table of Contents
 
